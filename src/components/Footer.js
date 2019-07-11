@@ -56,7 +56,7 @@ class Footer extends React.Component {
         <SocialIcons>
           <IconLink
             style={linkStyles}
-            href="https://twitter.com/jacobdcastro"
+            href="https://twitter.com/alitalha_"
             target="_blank"
           >
             <Icon
