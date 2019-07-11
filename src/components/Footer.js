@@ -101,7 +101,7 @@ class Footer extends React.Component {
           </IconLink> */}
           <IconLink
             style={linkStyles}
-            href="https://www.linkedin.com/in/jacob-c-5b6257a4/"
+            href="https://www.linkedin.com/in/ali-talha-atici-98552bb2/"
             target="_blank"
           >
             <Icon
@@ -132,4 +132,5 @@ class Footer extends React.Component {
 
 // create a stateless functional component for footer to import images via gatsby-image and <StaticQuery>
 
+// 
 export default Footer;
