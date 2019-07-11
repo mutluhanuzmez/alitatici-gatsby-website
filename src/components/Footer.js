@@ -132,5 +132,4 @@ class Footer extends React.Component {
 
 // create a stateless functional component for footer to import images via gatsby-image and <StaticQuery>
 
-// 
 export default Footer;
