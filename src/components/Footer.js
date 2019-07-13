@@ -124,8 +124,8 @@ class Footer extends React.Component {
           }
         >
           &copy; Ali Talha Atici - 2019
-          
-          This website supported by Mutluhan Üzmez
+          <br/> This website supported by
+          <a href="https://mutluhanuzmez.com" target="_blank">Mutluhan Uzmez</a> 
         </Copyright>
       </FooterContainer>
     );
