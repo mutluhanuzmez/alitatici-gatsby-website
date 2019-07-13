@@ -9,7 +9,8 @@ description: "Bu yazımda beni yakından tanıyın."
 
 Selamin Aleykum,
 
-Ben Ali, İTÜLÜ ARKADAŞIMIN YILLARCA BENİMLE YILDIZLI OLDUĞUM İÇİN DALGA GEÇMESİNİ KENDİME YEDİREMEYİP, Boun'da yükseğe girdim.
+Ben Ali.
+
 
 
 
