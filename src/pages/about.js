@@ -65,12 +65,12 @@ class About extends React.Component {
             <AboutHeadline>About Me</AboutHeadline>
             <AboutContent>
               I am Ali Talha Atici. I was born in Antalya, 1996 and I 
-              lived there until I am 18. Then I moved to Istanbul for University. 
-              My bachelor degree is Civil Engineering at{" "}
+              lived there until I am 18. Then I moved to Istanbul for undergraduate education. 
+              I finished my bachelor degree in Civil Engineering at{" "}
               <MiscLinks href="http://www.yildiz.edu.tr/en" target="_blank">
               Yildiz Technical University
-              </MiscLinks>
-              . Now, I am studying in 
+              </MiscLinks>{" "}
+              in 2019. Now, I am studying in 
               {" "}
               <MiscLinks href="http://www.koeri.boun.edu.tr/depmuh_index_eng.aspx" target="_blank">
               BOUN KOERI
