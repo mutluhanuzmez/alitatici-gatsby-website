@@ -41,8 +41,12 @@ const Copyright = styled.h5`
   letter-spacing: 2px;
   margin: 14px auto;
 `;
+const MiscLinks = styled.a`
+  text-decoration: underline;
+  color: inherit;
+`;
 
-const linkStyles = {
+ const linkStyles = { 
   height: "33px",
   width: "33px",
   padding: "0",
@@ -124,8 +128,12 @@ class Footer extends React.Component {
           }
         >
           &copy; Ali Talha Atici - 2019
-          <br/> This website supported by
-          <a href="https://mutluhanuzmez.com" target="_blank">Mutluhan Uzmez</a> 
+          <br/> This website supported by{" "}
+              <MiscLinks href="https://mutluhanuzmez.com/" target="_blank">
+              Mutluhan Uzmez
+              </MiscLinks>{" "}
+
+          {/* <a href="https://mutluhanuzmez.com" target="_blank">Mutluhan Uzmez</a>  */}
         </Copyright>
       </FooterContainer>
     );
