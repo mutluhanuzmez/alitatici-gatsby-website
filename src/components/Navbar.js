@@ -111,11 +111,11 @@ class Navbar extends React.Component {
             <Link to="/about/" style={linkStyles}>
               <MenuItem>About</MenuItem>
             </Link>
-            <Link to="/contact/" style={linkStyles}>
-              <MenuItem>Contact</MenuItem>
-            </Link>
             <Link to="/blog/" style={linkStyles}>
               <MenuItem>Blog</MenuItem>
+            </Link>
+            <Link to="/contact/" style={linkStyles}>
+              <MenuItem>Contact</MenuItem>
             </Link>
             {/* <a href="#">Portfolio</a> */}
             <HamButton

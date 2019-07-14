@@ -99,8 +99,15 @@ class About extends React.Component {
               </MiscLinks>{" "}
               .
             </AboutContent>
+
             <AboutContent>
-              I
+              In addition to them, I am keen on coding and software development.
+              I started to coding in my last semester of university and I 
+              developed an application about structural engineering on Visual 
+              Basic Application as my final thesis. I will be share this study 
+              in this web site later. Mainly, my writings will be about software 
+              development on civil engineering. Likewise, I will share my experiences 
+              about any topics. 
             </AboutContent>
             <AboutContent>
               I live in Santa Maria, CA but my goal is to move to Chicago, IL
