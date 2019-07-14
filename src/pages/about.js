@@ -65,11 +65,11 @@ class About extends React.Component {
             <AboutHeadline>About Me</AboutHeadline>
             <AboutContent>
               I am Ali Talha Atici. I was born in Antalya, 1996 and I 
-              lived in there until I am 18. Then I moved to Istanbul for university. 
-              My bachelor degree is Civil Engineering in{" "}
+              lived there until I am 18. Then I moved to Istanbul for University. 
+              My bachelor degree is Civil Engineering at{" "}
               <MiscLinks href="http://www.yildiz.edu.tr/en" target="_blank">
               Yildiz Technical University
-              </MiscLinks>{" "}
+              </MiscLinks>
               . Now, I am studying in 
               {" "}
               <MiscLinks href="http://www.koeri.boun.edu.tr/depmuh_index_eng.aspx" target="_blank">
@@ -78,51 +78,56 @@ class About extends React.Component {
               Earthquake Engineering Master Program.
             </AboutContent>
             <AboutContent>
-              During my undergraduate education, I have gone to the abroad for studying and internship.
+              During my undergraduate education, I have gone abroad for studying and internship.
               I have been Czechia as Erasmus Exchange Student in{" "}
               <MiscLinks href="http://www.vstecb.cz/en/" target="_blank">
               VSTE
-              </MiscLinks>{" "}
-              , in winter semester of 2016-2017 academic year. Moreover, I have been Oman as 
-              research intern in{" "}
+              </MiscLinks>
+              , in the winter semester of the 2016-2017 academic year. Moreover, I have been Oman as a 
+              research intern at{" "}
               <MiscLinks href="https://www.squ.edu.om/" target="_blank">
               Sultan Qaboos University
-              </MiscLinks>{" "}
-              , Engineering Faculty through the IAESTE internship program in summer of 2018. 
-              I have worked on energy-saving and air tightness in detached buildings with{" "}
+              </MiscLinks>
+              , Engineering Faculty through the IAESTE internship program in the summer of 2018. 
+              I have worked on energy-saving and airtightness in detached buildings with{" "}
               <MiscLinks href="https://www.researchgate.net/profile/Saleh_Al-Saadi" target="_blank">
               Dr. Saleh Al-Saadi
-              </MiscLinks>{" "}
+              </MiscLinks>
               . Also, you can see my work experiences with more detail on{" "}
               <MiscLinks href="https://www.linkedin.com/in/ali-talha-atici-98552bb2/" target="_blank">
               my Linkedin profile
-              </MiscLinks>{" "}
+              </MiscLinks>
               .
             </AboutContent>
 
             <AboutContent>
               In addition to them, I am keen on coding and software development.
-              I started to coding in my last semester of university and I 
+              I started coding in my last semester of university and I 
               developed an application about structural engineering on Visual 
-              Basic Application as my final thesis. I will be share this study 
-              in this web site later. Mainly, my writings will be about software 
-              development on civil engineering. Likewise, I will share my experiences 
-              about any topics. 
+              Basic Application as my final thesis. I will be sharing this study 
+              on this website later. Mainly, my writings will be about software 
+              development in civil engineering.
             </AboutContent>
+
             <AboutContent>
-              I live in Santa Maria, CA but my goal is to move to Chicago, IL
-              someday soon. Some would say that's a downgrade, at least in
-              weather quality, but I'm focused as hell to get there. If you're
-              from Chicago, I'd love to{" "}
+              I started this website because I want to share my works with everyone 
+              all around the world. With this website, I will be able to access and refer my works easily. 
+              Thus, I won't forget my works. Additively, I believe that this website will be a good portfolio for myself.
+
+              I always like to share my works with my social circle and talk about these. 
+              If you want to join me to talk, please{" "}
               <Link to="/contact/" style={linkStyles}>
-                hear from you
+                contact me
               </Link>
               !
             </AboutContent>
+
             <AboutContent>
-              Some hobbies of mine include music and sports. I play guitar and
-              sing a bit. I also really really love sports. All Chicago-based
-              teams are my favorite (except the White Sox, of course).
+              The last thing I should mention that I am really appreciated to{" "}
+              <MiscLinks href="https://mutluhanuzmez.com/" target="_blank">
+              Mutluhan Uzmez 
+              </MiscLinks>{" "}
+              who is supported to me to open this web site.
             </AboutContent>
           </AboutSection>
         </Body>
