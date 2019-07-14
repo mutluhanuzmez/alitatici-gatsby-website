@@ -56,7 +56,7 @@ class About extends React.Component {
     return (
       <Layout
         pageTitle="About Me - "
-        headline="Who am I?"
+        headline="Who am I"
         className="aboutPage"
         backgroundIsBlack={false}
       >
@@ -64,34 +64,43 @@ class About extends React.Component {
           <AboutSection>
             <AboutHeadline>About Me</AboutHeadline>
             <AboutContent>
-              My name is Ali Talha Atici. I am a front-end web developer. I
-              love to code websites and stuff like that.
-              <br />I started learning to code HTML and CSS in 2015 after I
-              graduated high school. I was a little on-and-off with my learning
-              up until the end of 2017 where I decided that web development was,
-              indeed, the career I wanted to pursue. From there, I jumped into
-              JavaScript and have been falling more and more in love with web
-              development ever since.
-            </AboutContent>
-            <AboutContent>
-              After coding, I also really enjoy design. My favorite sans-serif
-              fonts are{" "}
-              <MiscLinks href="https://www.myfonts.com/fonts/linotype/helvetica/">
-                Helvetica
+              I am Ali Talha Atici. I was born in Antalya, 1996 and I 
+              lived in there until I am 18. Then I moved to Istanbul for university. 
+              My bachelor degree is Civil Engineering in{" "}
+              <MiscLinks href="http://www.yildiz.edu.tr/en" target="_blank">
+              Yildiz Technical University
               </MiscLinks>{" "}
-              and{" "}
-              <MiscLinks href="https://fonts.google.com/specimen/Montserrat">
-                Montserrat
-              </MiscLinks>
-              . I don't really have a favorite serif font (yet), but they're
-              cool too, I guess.
+              . Now, I am studying in 
+              {" "}
+              <MiscLinks href="http://www.koeri.boun.edu.tr/depmuh_index_eng.aspx" target="_blank">
+              BOUN KOERI
+              </MiscLinks>{" "}
+              Earthquake Engineering Master Program.
             </AboutContent>
             <AboutContent>
-              One of my favorite things to do is take my passion for design and
-              love for coding and combine them in my projects. I'm obssessed
-              with gorgeous UI's; designing my own (for clients or otherwise) is
-              so satisfying. And then translating that into code and crafting a
-              truly memorable UX is my passion.
+              During my undergraduate education, I have gone to the abroad for studying and internship.
+              I have been Czechia as Erasmus Exchange Student in{" "}
+              <MiscLinks href="http://www.vstecb.cz/en/" target="_blank">
+              VSTE
+              </MiscLinks>{" "}
+              , in winter semester of 2016-2017 academic year. Moreover, I have been Oman as 
+              research intern in{" "}
+              <MiscLinks href="https://www.squ.edu.om/" target="_blank">
+              Sultan Qaboos University
+              </MiscLinks>{" "}
+              , Engineering Faculty through the IAESTE internship program in summer of 2018. 
+              I have worked on energy-saving and air tightness in detached buildings with{" "}
+              <MiscLinks href="https://www.researchgate.net/profile/Saleh_Al-Saadi" target="_blank">
+              Dr. Saleh Al-Saadi
+              </MiscLinks>{" "}
+              . Also, you can see my work experiences with more detail on{" "}
+              <MiscLinks href="https://www.linkedin.com/in/ali-talha-atici-98552bb2/" target="_blank">
+              my Linkedin profile
+              </MiscLinks>{" "}
+              .
+            </AboutContent>
+            <AboutContent>
+              I
             </AboutContent>
             <AboutContent>
               I live in Santa Maria, CA but my goal is to move to Chicago, IL

@@ -157,17 +157,18 @@ class Index extends React.Component {
 
             <TextContainer>
               <Text1>
-                I Design &amp; develop
+                {/* I work &amp; share */}
+                I share
                 <br />
-                Modern Constructions.
+                my works
                 <br />
-                For You.
+                For myself.
               </Text1>
-              <Link to="/contact/" style={linkStyles}>
+              <Link to="/blog/" style={linkStyles}>
                 <Text2>
-                  Let's work
+                  see my
                   <br />
-                  Together
+                  writings
                 </Text2>
               </Link>
             </TextContainer>
