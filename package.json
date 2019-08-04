@@ -1,8 +1,8 @@
 {
-  "name": "jdcastro-personal-site",
-  "description": "The personal site of Jacob D. Castro",
+  "name": "alitatici",
+  "description": "The personal site of Ali Talha Atici",
   "version": "2.2.1",
-  "author": "Jacob D. Castro <jdcastro.business@gmail.com>",
+  "author": "Ali Talha Atici <alitatici@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "contentful": "^7.8.1",
@@ -24,6 +24,7 @@
     "gatsby-transformer-remark": "^2.1.12",
     "gatsby-transformer-sharp": "^2.2.1",
     "gatsby-transformer-sqip": "^2.1.5",
+    "gh-pages": "^2.1.0",
     "lodash": "^4.17.11",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
@@ -45,7 +46,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:github": "npm run build && cp ./src/CNAME public/ && node ./scripts/deploy-github"
   },
   "devDependencies": {
     "eslint-plugin-styled-components": "0.0.0",
