@@ -21,11 +21,15 @@ Preparation of the HatilApp has 3 step:
 ##What can HatilApp do for now?
 In this post, I'm going to explain first step of preparation briefly.
 
-As I mentioned, this is my first using Python. For this reason, [Mutluhan Uzmez](https://mutluhanuzmez.com "Mutluhan Uzmez Blog") helped me on program's interface and using Github for working together remotely.
+Now, HatilApp has the interface for using program. It can solve three type of hatil such as, none, one and two horizontal hatil. You can see the every result of hatil calculation and you can control the limits.
 
 ![](/class.png "classes")
 
 I used object oriented programming.
+
+![](/code.png "code example")
+
+An example of calculations.
 
 ![](/interface.png "HatilApp interface")
 
