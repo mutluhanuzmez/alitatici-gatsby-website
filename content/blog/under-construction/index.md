@@ -18,6 +18,8 @@ Preparation of the HatilApp has 3 step:
 2) Write up report
 3) Make AutoCAD drawing
 
+For this moment, I have done first step. When I finish other steps, I will share in new posts.
+
 ##What can HatilApp do for now?
 In this post, I'm going to explain first step of preparation briefly.
 
