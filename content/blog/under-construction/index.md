@@ -1,5 +1,5 @@
 ---
-title: First Blog & Python Application - HatilApp
+title: First Blog & HatilApp
 subtitle: "HatilApp - 1/3 Done"
 date: "2019-08-05T21:28:03+00:00"
 description: "Hello, this is my first post in this website and I'm going to announce HatilApp"
@@ -22,7 +22,7 @@ Preparation of the HatilApp has 3 step:
 ##What can HatilApp do for now?
 In this post, I'm going to explain first step of preparation briefly.
 
-As I mentioned, this is my first using Python. For this reason, [Mutluhan Uzmez](https://mutluhanuzmez.com "Mutluhan Uzmez Web Page") helped me on program's interface and using Github for working together remotely.
+As I mentioned, this is my first using Python. For this reason, [Mutluhan Uzmez](https://mutluhanuzmez.com "Mutluhan Uzmez Blog") helped me on program's interface and using Github for working together remotely.
 
-![](images/class.PNG "classes")
-![](images/interface.PNG "HatilApp interface")
+![](src/images/class.png "classes")
+![](src/images/interface.png "HatilApp interface")
