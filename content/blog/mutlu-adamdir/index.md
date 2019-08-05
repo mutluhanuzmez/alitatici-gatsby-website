@@ -1,16 +1,13 @@
 ---
-title: Boğaziçili Ali Kimdir?
-subtitle: "Geleceğin Müteahhiti"
+title: Blog - Under construction
+subtitle: "..."
 date: "2019-04-19T21:28:03+00:00"
-description: "Bu yazımda beni yakından tanıyın."
+description: "..."
 ---
 
 
 
-Selamin Aleykum,
-
-Ben Ali.
-
+...
 
 
 
