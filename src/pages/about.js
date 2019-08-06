@@ -70,12 +70,7 @@ class About extends React.Component {
               <MiscLinks href="http://www.yildiz.edu.tr/en" target="_blank">
               Yildiz Technical University
               </MiscLinks>{" "}
-              in 2019. Now, I am studying in 
-              {" "}
-              <MiscLinks href="http://www.koeri.boun.edu.tr/depmuh_index_eng.aspx" target="_blank">
-              BOUN KOERI
-              </MiscLinks>{" "}
-              Earthquake Engineering Master Program.
+              in 2019.
             </AboutContent>
             <AboutContent>
               During my undergraduate education, I have gone abroad for studying and internship.
@@ -123,7 +118,7 @@ class About extends React.Component {
             </AboutContent>
 
             <AboutContent>
-              The last thing I should mention that I am really appreciated to{" "}
+              Lastly, I am really appreciated to{" "}
               <MiscLinks href="https://mutluhanuzmez.com/" target="_blank">
               Mutluhan Uzmez 
               </MiscLinks>{" "}
