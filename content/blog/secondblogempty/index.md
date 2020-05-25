@@ -24,6 +24,7 @@ So, by automatizing Microsoft Word with Python, second task will be completed.
 You can find out many webpages about the topic, yet I used a few of them since I want to share something fundamental about this for now. Here is the sites:
 
 https://python-docx.readthedocs.io/en/latest/index.html
+
 https://stackoverflow.com/questions/53638832/bold-underlining-and-iterations-with-python-docx
 
 
