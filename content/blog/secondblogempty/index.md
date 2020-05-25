@@ -1,28 +1,35 @@
 ---
-title: First Blog & HatilApp2
-subtitle: "HatilApp"
-date: "2020-02-09T20:19:03+00:00"
-description: "Hello, this is my first post in this website and I'm going to announce HatilApp"
+title: Microsoft Word API via Python
+subtitle: "Automatizing Word with Python"
+date: "2020-05-25T16:51:03+00:00"
+description: "Let's glance how to bond Word and Python codes basically."
 ---
 
 Hello everyone,
 
-This is my first post and I am going to announce my first Python program, HatilApp.
-I explained my motivation on the [about](https://alitalhaatici.com/about "Ali Talha Atici - About Page") page, so I didn't prefer to share a post about why I start the writing blog. In that case, I chose to make my first blog as an application announce.
+After a long time, I'm going to share second blog. Today's topic is that using Microsoft Word automatically through Python. 
 
-##HatilApp
-Last two months, I am working in Galataport Istanbul Technical Office. I am controlling the reports and drawings. I realize the same mistake from different companies. This mistake is about hatil* calculation. In this circumstance, I decided to prepare the program which designs hatils. 
+##WHY
+First of all, one of the main motivations to start coding was easing the works about my profession, civil engineering. For this reason, I have to learn at least these three tasks which I also mentioned in [my first blog](https://alitalhaatici.com/blog/firstblogandhatilapp/ "First Blog & HatilApp"):
 
-Preparation of the HatilApp has 3 steps:
-1) Code the calculations and interface
-2) Write up report
-3) Make AutoCAD drawing
+1- How to code calculation
+2- How to write up report
+3- How to make AutoCAD drawing
 
-For this moment, I have done the first step. When I finish other steps, I will share in new posts.
+So, by automatizing Microsoft Word with Python, second task will be completed.
 
-##What can HatilApp do for now?
-In this post, I'm going to explain the first step of preparation briefly.
+##HOW
+You can find out many webpages about the topic, yet I used a few of them since I want to share something fundamental about this for now. Here is the sites:
+https://python-docx.readthedocs.io/en/latest/index.html
+https://stackoverflow.com/questions/53638832/bold-underlining-and-iterations-with-python-docx
 
-Now, HatilApp has the interface for using the program. It can solve three types of hatil such as, none, one and two horizontal hatil. You can see every result of hatil calculation and you can control the limits.
+##EXAMPLE
 
-*I couldn't translate the "hatil", hatil is not a member of the frame. Hatil is the reinforced concrete member for supporting the wall(brick or masonry wall) against to horizontal loads such as earthquake and wind.
+![](/firstCode.png "firstCodeSS")
+
+![](/secondCode.png "secondCodeSS")
+
+![](/thirdAndLastCode.png "thirdAndLastCodeSS")
+
+
+DO NOT FORGET TO CLOSE WORD BEFORE STARTING CODE 
