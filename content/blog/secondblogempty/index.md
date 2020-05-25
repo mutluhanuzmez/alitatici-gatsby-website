@@ -30,13 +30,17 @@ https://stackoverflow.com/questions/53638832/bold-underlining-and-iterations-wit
 ##EXAMPLE
 
 
+
 ![](/firstCode.png "firstCodeSS")
+
 
 
 ![](/secondCode.png "secondCodeSS")
 
 
+
 ![](/thirdAndLastCode.png "thirdAndLastCodeSS")
+
 
 
 DO NOT FORGET TO CLOSE WORD BEFORE STARTING CODE 

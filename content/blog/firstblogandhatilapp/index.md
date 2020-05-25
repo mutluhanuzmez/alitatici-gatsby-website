@@ -25,15 +25,21 @@ In this post, I'm going to explain the first step of preparation briefly.
 
 Now, HatilApp has the interface for using the program. It can solve three types of hatil such as, none, one and two horizontal hatil. You can see every result of hatil calculation and you can control the limits.
 
+
 ![](/class.png "classes")
+
 
 I used object oriented programming.
 
+
 ![](/code.png "code example")
+
 
 An example of calculations.
 
+
 ![](/interface.png "HatilApp interface")
+
 
 The interface of HatilApp. There are the results in the bottom side of the window.
 
